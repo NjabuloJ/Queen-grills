@@ -1,6 +1,6 @@
 {
-  "name": "DULLAH-MD V2",
-  "description": "This BOT was developed by dullah.",
+  "name": "Happy-md",
+  "description": "This BOT was developed by Happy.",
   "keywords": [
     "bot",
     "node",
@@ -8,7 +8,7 @@
     "whatsapp"
   ],
   "logo": "https://files.catbox.moe/ig9w4q.jpg",
-  "repository": "https://github.com/fred1e/DULLAH-MD",
+  "repository": "https://github.com/fred1e/Happy-md",
   "succes_url": "/",
   "stack": "container",
   "env": {
@@ -118,12 +118,12 @@
     "OWNER_NAME": {
       "desc": "Your Name",
       "required": false,
-      "value": "DULLAH MD"
+      "value": "Happy md"
     },
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
       "required": false,
-      "value": "255716945971"
+      "value": "26777821911"
     },
     "WARN_COUNT": {
       "desc": "this is the limit of warn for warning commandes",
