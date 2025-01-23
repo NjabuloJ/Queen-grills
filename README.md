@@ -7,5 +7,3 @@
 </p>
 
 
-src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/github.png" width="13%"> </a>
-  <a
