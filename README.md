@@ -1,4 +1,4 @@
-
+<p align="center"><img src="https://files.catbox.moe/ir5wiz.jpg" width="500"height="500" />
 
 <p align="center">
 <a href="https://github.com/NjabuloJ/followers"><img title="Followers" src="https://img.shields.io/github/followers/NjabuloJ?color=blue&style=flat-square"></a>
