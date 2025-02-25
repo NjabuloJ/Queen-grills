@@ -1,3 +1,10 @@
+## 🖼️ NJABULO JB 
+
+<p align="center">
+  <img src="https://files.catbox.moe/agpboe.jpg" alt="NJABULO JB Bot" width="250" style="border-radius: 10px; margin: 5px;">
+  <img src="https://files.catbox.moe/94nxc3.jpg" alt="Feature Screenshot" width="300" style="border-radius: 10px; margin: 5px;">
+  <img src="https://files.catbox.moe/mm3s53.jpg" alt="User Interaction" width="350" style="border-radius: 10px; margin: 5px;">
+</p>
 
 ## 💻 GitHub Repo Activity
 
