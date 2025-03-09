@@ -6,14 +6,13 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://files.catbox.moe/mscofb.jpg"  />
+  <img height="200" src="https://files.catbox.moe/822xi6.jpg"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://spogit.vercel.app/api?theme=dark&rainbow=true&scan=true" alt="Widget with the current Spotify song"/>
-</div>
+  <img src="https://spogit.vercel.app/api?theme=dark&rainbow=true&scan=true" alt="Widget with the current Spotify musi"/</div>
 
 ###
 
