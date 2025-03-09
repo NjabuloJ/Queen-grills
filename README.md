@@ -6,13 +6,13 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media.tenor.com/OrHTic0nLGUAAAAC/sinbad-sinbadnobouken.gif"  />
+  <img height="200" src="https://files.catbox.moe/mscofb.jpg"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://spogit.vercel.app/api?theme=dark&rainbow=true&scan=true" alt="Widget with the current Spotify song"  />
+  <img src="https://spogit.vercel.app/api?theme=dark&rainbow=true&scan=true" alt="Widget with the current Spotify song"/>
 </div>
 
 ###
