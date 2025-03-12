@@ -1,5 +1,6 @@
   <a href="https://github.com/NjabuloJ/Njabulo-Jb"><img src="https://img.shields.io/badge/Heroku%20deploy%20bot-white" alt="deploy on Heroku" width="300"></a>
-  
+
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/NjabuloJ/Njabulo-Jb"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?-white" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="300"></a>
 
 ###
 
