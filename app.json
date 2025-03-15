@@ -1,14 +1,14 @@
 {
-  "name": "🚮 CASEYRHODES MD❤️",
-  "description": "This BOT was developed by CASEYRHODES.",
+  "name": "ɴᴊᴀʙᴜʟᴏ ᴊʙ",
+  "description": "This BOT was developed by Njabulo Jb",
   "keywords": [
     "bot",
     "node",
     "baileys",
     "whatsapp"
   ],
-  "logo": "https://i.ibb.co/21YS7vBf/lordali.jpg",
-  "repository": "https://github.com/caseyweb/ZHEZHO-MD",
+  "logo": "https://files.catbox.moe/19xbc3.jpg",
+  "repository": "https://github.com/NjabuloJ/happiness-xmd",
   "succes_url": "/",
   "stack": "container",
   "env": {
@@ -79,12 +79,12 @@
     },
     "BOT_NAME": {
       "description": "put A name for your bot",
-      "value": "CASEYRHODES MD",
+      "value": "Njabulo JB",
       "required": false
     },
     "BOT_MENU_LINKS": {
       "description": "add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://i.ibb.co/21YS7vBf/lordali.jpg",
+      "value":"https://files.catbox.moe/19xbc3.jpg",
       "required": false
     },
     "PUBLIC_MODE": {
@@ -110,12 +110,12 @@
     "OWNER_NAME": {
       "desc": "Your Name",
       "required": false,
-      "value": "𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒🍀"
+      "value": "ɴᴊᴀʙᴜʟᴏ ᴊʙ"
     },
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
       "required": false,
-      "value": "254112192119"
+      "value": "26777821911"
     },
     "WARN_COUNT": {
       "desc": "this is the limit of warn for warning commandes",
