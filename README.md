@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/abdallahsalimjuma">
+    <img alt="DULLA-XMD logo" height="200" src="https://files.catbox.moe/533oqh.jpg">
+  </a>
+</p>
+
   <a href="https://github.com/NjabuloJ/Njabulo-Jb"><img src="https://img.shields.io/badge/Heroku%20deploy%20bot-white" alt="deploy on Heroku" width="300"></a>
 
   <a href="https://dashboard.heroku.com/new?template=https://github.com/NjabuloJ/Njabulo-Jb"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY%20ON%20HEROKU-white" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="300"></a>
@@ -13,7 +19,8 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="https://www.youtube.com/@Njabulo-JBOffice" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg"
+    width="52" height="40" alt="youtube logo"  />
   </a>
   <a href="https://github.com/NjabuloJ/Njabulo-Jb" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codesandbox/default.svg" width="52" height="40" alt="codesandbox logo"  />
