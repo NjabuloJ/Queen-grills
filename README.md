@@ -1,6 +1,13 @@
 <p align="center">
-  <a href="https://github.com/abdallahsalimjuma">
-    <img alt="DULLA-XMD logo" height="200" src="https://files.catbox.moe/533oqh.jpg">
+  <a href="https://github.com/NjabuloJ">
+    <img alt="Njabulo-Jb logo" height="200" src="https://files.catbox.moe/1qetbh.jpg">
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/NjabuloJ">
+    <img alt="Njabulo-Jb audo voice" height="200" src="https://files.catbox.moe/wp4a7x.mp4">
   </a>
 </p>
 
