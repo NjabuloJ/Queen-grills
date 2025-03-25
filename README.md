@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/NjabuloJ">
-    <img alt="Njabulo-Jb audo voice" height="200" src="https://files.catbox.moe/wp4a7x.mp4">
+    <img alt="Njabulo-Jb" height="200" src="https://files.catbox.moe/wp4a7x.mp4">
   </a>
 </p>
 
