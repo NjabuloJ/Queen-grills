@@ -1,3 +1,10 @@
+###  𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔:
+
+
+ ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://Njabulo-Jb-fork-cheacker.vercel.app/)***
+
+<br>
+
 <p align="center">
   <a href="https://github.com/NjabuloJ">
     <img alt="Njabulo-Jb logo" height="200" src="https://files.catbox.moe/1qetbh.jpg">
