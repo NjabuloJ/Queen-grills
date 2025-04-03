@@ -58,19 +58,6 @@
   <li>If the issue persists, don’t give up! Just keep relinking the session until it works. 🙏🙏</li>
 </ol>
 
-<h1 align="center">Thanks to our loyal folowers</h1>
-
-<p align="center">
-  <a href="https://github.com/Keithkeizzah/ALPHA-MD/stargazers">
-    <img src="http://reporoster.com/stars/dark/Keithkeizzah/ALPHA-MD" alt="Stargazers repo roster for @Keithkeizzah/ALPHA-MD">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Keithkeizzah/ALPHA-MD/network/members">
-    <img src="http://reporoster.com/forks/dark/Keithkeizzah/ALPHA-MD" alt="Forkers repo roster for @Keithkeizzah/ALPHA-MD">
-  </a>
-</p>
 
 
 
