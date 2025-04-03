@@ -1,15 +1,5 @@
 
 
-<h1 align="center">𝗔𝗟𝗣𝗛𝗔-𝗠𝗗</h1>
-
-<h1 align="center">Survival is winning, frankline everything else is bullshit, fairy tales spun by people afraid to look life in the eye, do whatever it takes kid, survive 😏🙏</h1>
-
-
-<div style="text-align: center;">
-  <a href="https://ibb.co/N6NMDtn">
-    <img src="https://telegra.ph/file/967c663a5978c545f78d6.jpg" alt="01" border="0" /></a>
-  </a>
-
   </a>
   <hr style="margin-top: 20px; margin-bottom: 20px;"/>
 </div>
