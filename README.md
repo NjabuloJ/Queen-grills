@@ -44,19 +44,7 @@
 </table>
 
 
-<p align="center">
-  <i>This bot is still under maintenance, and sometimes APIs might be down. Apologies for the inconvenience; we are working to make it better!</i>
-</p>
 
-<p align="center">
-  <i>Due to recent WhatsApp updates and issues with Baileys, your bot may fail to start. Here are the steps to follow if you encounter this problem:</i>
-</p>
-
-<ol>
-  <li>Relink your session ID by changing the session to the app you deployed.</li>
-  <li>If that doesn't work, try updating your WhatsApp.</li>
-  <li>If the issue persists, don’t give up! Just keep relinking the session until it works. 🙏🙏</li>
-</ol>
 
 
 
