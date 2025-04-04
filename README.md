@@ -7,7 +7,7 @@
 <table align="center" cellpadding="10" border="1">
   <tr>
     <td align="center">
-      <b>SESSION</b><br>
+      <b>Queen-grills</b><br>
       Link your session ID to start using the bot. Follow steps if issues arise.
       <br><br>
       <a href="https://alpha-session-56fu.onrender.com/pair">
@@ -25,15 +25,15 @@
   </tr>
   <tr>
     <td align="center">
-      <b>KEITH APIs</b><br>
-      Visit our website for Keith APIs and integrations though still updating.
+      <b>DEPLOY Queen-grills</b><br>
+      Deploy the bot to your server or platform of choice using the button below.
       <br><br>
-      <a href="https://apis-keith.vercel.app/">
-        <img src="https://img.shields.io/badge/Visit%20KEITH%20APIs-blue" alt="Visit KEITH APIs" width="200">
+      <a href="https://dashboard.heroku.com/new?button-url=https://github.com/NjabuloJ/Njabulo-Jb&template=https://github.com/NjabuloJ/Njabulo-Jb.git">
+        <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
       </a>
     </td>
     <td align="center">
-      <b>DEPLOY</b><br>
+      <b>DEPLOY Njabulo-Jb</b><br>
       Deploy the bot to your server or platform of choice using the button below.
       <br><br>
       <a href="https://dashboard.heroku.com/new?button-url=https://github.com/NjabuloJ/Njabulo-Jb&template=https://github.com/NjabuloJ/Njabulo-Jb.git">
