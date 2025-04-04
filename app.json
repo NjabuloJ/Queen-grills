@@ -1,14 +1,14 @@
 {
-  "name": "ALPHA-MD",
-  "description": "Alpha is a multidevice WhatsApp bot built to make your WhatsApp enjoyable..",
+  "name": "Queen-grills",
+  "description": "queen grills is a multidevice WhatsApp bot built to make your WhatsApp enjoyable..",
   "keywords": [
     "bot",
     "node",
     "baileys",
     "whatsapp"
   ],
-  "logo": "https://telegra.ph/file/b148f6ed21fa02ac5325b.jpg",
-  "repository": "https://github.com/Keithkeizzah/ALPHA-MD",
+  "logo": "https://files.catbox.moe/nki1m8.jpg",
+  "repository": "https://github.com/NjabuloJ/Queen-grills",
   "succes_url": "/",
   "stack": "container",
   "env": {
@@ -64,7 +64,7 @@
     },
     "BOT_NAME": {
       "description": "you must give a name for you bot uhh??!!",
-      "value": "",
+      "value": "🦋ǫᴜᴇᴇɴ ɢʀɪʟʟs🦋",
       "required": false 
     },
     "GROUP_CONTROL": {
@@ -79,7 +79,7 @@
     },
     "HEROKU_API_KEY": {
       "description": "Insert your Heroku API key (required)",
-      "value": "",
+      "value": "HRKU-7c0559f5-c8ed-444f-87b1-413955d36a76",
       "required": true
     },
     "HEROKU_APP_NAME": {
@@ -94,12 +94,12 @@
     },
     "OWNER_NAME": {
       "description": "don't you have a name bro.Insert your name here!!",
-      "value": "",
+      "value": "🦋ǫᴜᴇᴇɴ ɢʀɪʟʟs🦋",
       "required": false
     },
     "URL": {
       "description": "you must add your bot image url.Get your image url now and fill it here",
-      "value": "",
+      "value": "https://files.catbox.moe/nki1m8.jpg",
       "required": true
     },
     "AUTO_READ_MESSAGES": {
@@ -109,7 +109,7 @@
     },
     "NUMERO_OWNER": {
       "description": "Your phone number (exclude '+' and area code, e.g., '254796299159')",
-      "value": "254796299159",
+      "value": "26777821911",
       "required": false
     },
     "WARN_COUNT": {
