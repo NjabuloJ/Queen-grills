@@ -1,7 +1,7 @@
 
 
 ᴄʟɪᴄᴋ ᴡᴀ ʟᴏɢᴏ ᴛᴏ ᴊᴏɪɴ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 👇 
-<br> [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://whatsapp.com/channel/0029Va9thusJP20yWxQ6N643)
+<br> [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://whatsapp.com/channel/0029VarYP5iAInPtfQ8fRb2T)
   <div align="center"  >
 <h4 align="center">Plugins</h1>
 
@@ -15,10 +15,9 @@
 </div>
 
 <p align="center">
-<i>Loved the tool? Please consider <a href="https://www.paypal.com/donate/?hosted_button_id=FR3A2DGVYKGJS">donating 💸</a> to support its continuous<br/> improvement and development!</i>
+<i>Loved the tool? Please consider <a href="https://www.paypal.com/NjabuloJ/?hosted_button_id=FR3A2DGVYKGJS">NjabuloJ 💸</a> to support its continuous<br/> improvement and development!</i>
 </p>
 
-https://user-images.githubusercontent.com/54520907/173442002-dafc63ea-321f-4ce2-b349-be490b3a00ff.mp4
 
 😭😭😭😭
 
