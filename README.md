@@ -1,3 +1,13 @@
+
+
+ᴄʟɪᴄᴋ ᴡᴀ ʟᴏɢᴏ ᴛᴏ ᴊᴏɪɴ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 👇 
+<br> [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://whatsapp.com/channel/0029Va9thusJP20yWxQ6N643)
+  <div align="center"  >
+<h4 align="center">Plugins</h1>
+
+---
+😭🤥🤥😁
+
 <div align="center" id="top">
   <img src="https://profile-readme-generator.com/assets/app.png" width="900" alt="Profile Readme Generator" />
 
