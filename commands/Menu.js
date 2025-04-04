@@ -170,7 +170,7 @@ keith({ nomCom: "menu", aliases: ["liste", "helplist", "commandlist"], categorie
         commandsList += "\n│◦➛╰─────────────\n╰──────────────┈⊷\n";
     }
 
-    commandsList += readMore + "\nin honor of Alpha\n";
+    commandsList += readMore + "\nin honor of Njabulo\n";
 
     try {
         const senderName = message.sender || message.from;
@@ -182,13 +182,13 @@ keith({ nomCom: "menu", aliases: ["liste", "helplist", "commandlist"], categorie
          isForwarded: true,
          forwardedNewsletterMessageInfo: {
          newsletterJid: '120363345407274799@newsletter',
-         newsletterName: "NJABULO JB",
+         newsletterName: "🦋ǫᴜᴇᴇɴ ɢʀɪʟʟs🦋",
          serverMessageId: 143,
          },
          forwardingScore: 999, // Score to indicate it has been forwarded
          externalAdReply: {
-           title: "ɳᴊᴀʙᴜʟᴏ ᴊʙ σғғɪᴄᴇ",
-           body: "fast via",
+           title: "🦋ǫᴜᴇᴇɴ ɢʀɪʟʟs🦋",
+           body: "message on",
            thumbnailUrl: 'https://files.catbox.moe/cs7xfr.jpg', // Add thumbnail URL if required 
            sourceUrl: 'https://whatsapp.com/channel/0029VarYP5iAInPtfQ8fRb2T', // Add source URL if necessary
            mediaType: 1,
