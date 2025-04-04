@@ -7,7 +7,7 @@
 <table align="center" cellpadding="10" border="1">
   <tr>
     <td align="center">
-      <b>Queen-grills</b><br>
+      <b>SESSION</b><br>
       Link your session ID to start using the bot. Follow steps if issues arise.
       <br><br>
       <a href="https://alpha-session-56fu.onrender.com/pair">
@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td align="center">
-      <b>DEPLOY Queen-grills</b><br>
+      <b>DEPLOY QUEEN-GRILLS</b><br>
       ᴅᴇᴘʟᴏʏ ᴛʜᴇ ʙᴏᴛ ᴜsᴇ ɴᴏʀᴍᴀʟ ʙᴏᴛ ᴏɴ ʜᴇʀᴏᴋᴜ ᴡᴏʀᴋɪɴɢ 100% ɴᴏ ʙᴀɴɴᴇᴅ ʜᴇʀᴏᴋᴜ ᴀɴᴅ ᴡʜᴀᴛsᴀᴘᴘ ᴛᴀɴᴋs ʏᴏᴜ ᴇɴᴊᴏʏ.
       <br><br>
       <a href="https://dashboard.heroku.com/new?button-url=https://github.com/NjabuloJ/Njabulo-Jb&template=https://github.com/NjabuloJ/Njabulo-Jb.git">
@@ -33,7 +33,7 @@
       </a>
     </td>
     <td align="center">
-      <b>DEPLOY Njabulo-Jb</b><br>
+      <b>DEPLOY NJABULO-JB</b><br>
       ᴅᴇᴘʟᴏʏ ᴛʜᴇ ʙᴏᴛ ᴜsᴇ ɴᴏʀᴍᴀʟ ʙᴏᴛ ᴏɴ ʜᴇʀᴏᴋᴜ ᴡᴏʀᴋɪɴɢ 100% ɴᴏ ʙᴀɴɴᴇᴅ ʜᴇʀᴏᴋᴜ ᴀɴᴅ ᴡʜᴀᴛsᴀᴘᴘ ᴛᴀɴᴋs ʏᴏᴜ ᴇɴᴊᴏʏ.
       <br><br>
       <a href="https://dashboard.heroku.com/new?button-url=https://github.com/NjabuloJ/Njabulo-Jb&template=https://github.com/NjabuloJ/Njabulo-Jb.git">
