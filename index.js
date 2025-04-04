@@ -258,7 +258,7 @@ zk.ev.on("messages.upsert", async (m) => {
     // Function to format notification message
 function createNotification(deletedMessage) {
   const deletedBy = deletedMessage.key.participant || deletedMessage.key.remoteJid;
-  let notification = `*😈${conf.BOT} ANTIDELETE👿*\n\n`;
+  let notification = `*🦋 QUEEN GRILLES ANTIDELETE🦋*\n\n`;
   notification += `*Time deleted🥀:* ${new Date().toLocaleString()}\n`;
   notification += `*Deleted by🌷:* @${deletedBy.split('@')[0]}\n\n*Powered by ${conf.OWNER_NAME}*\n\n`;
   return notification;
@@ -373,7 +373,7 @@ zk.ev.on("messages.upsert", async m => {
       // Function to format notification message
 function createNotification(deletedMessage) {
   const deletedBy = deletedMessage.key.participant || deletedMessage.key.remoteJid;
-  let notification = `*😈${conf.BOT} ANTIDELETE👿*\n\n`;
+  let notification = `*🦋 QUEEN GRILLES ANTIDELETE🦋*\n\n`;
   notification += `*Time deleted🥀:* ${new Date().toLocaleString()}\n`;
   notification += `*Deleted by🌷:* @${deletedBy.split('@')[0]}\n\n*Powered by ${conf.OWNER_NAME}*\n\n`;
   return notification;
@@ -822,14 +822,20 @@ if (texte && texte.startsWith('>')) {
     await zk.sendMessage(origineMessage, {
       text: menuText,
       contextInfo: {
+      isForwarded: true,
+        forwardedNewsletterMessageInfo: {
+        newsletterJid: '120363345407274799@newsletter',
+        newsletterName: "NJABULO JB",
+        serverMessageId: 143,
+        },
+        forwardingScore: 999, // Score to indicate it has been forwarded
         externalAdReply: {
           title: conf.BOT,
-          body: conf.OWNER_NAME,
-          sourceUrl: conf.GURL,
-          thumbnailUrl: conf.URL,
+          body: conf.OWNER-NAME,
+          thumbnailUrl: 'https://files.catbox.moe/cs7xfr.jpg', // Add thumbnail URL if required 
+          sourceUrl: 'https://whatsapp.com/channel/0029VarYP5iAInPtfQ8fRb2T', // Add source URL if necessary
           mediaType: 1,
-          showAdAttribution: true,
-          renderLargerThumbnail: false
+          renderLargerThumbnail: true
         }
       }
     });
@@ -1362,10 +1368,10 @@ if (texte && texte.startsWith('>')) {
         connection
       } = con;
       if (connection === "connecting") {
-        console.log("ℹ️ Alpha md connecting in your account...");
+        console.log("ℹ️ Queen grills connecting in your account...");
       } else if (connection === 'open') {
         
-        console.log("✅ Alpha Md connected successfully✔");
+        console.log("✅ Queen grills connected successfully✔");
         console.log("--");
         0;
         await baileys_1.delay(200);
@@ -1373,7 +1379,7 @@ if (texte && texte.startsWith('>')) {
         0;
         await baileys_1.delay(300);
         console.log("------------------/-----");
-        console.log(" Alpha-md installing ${evt.cm.length} plugins😇\n\n");
+        console.log(" Queen grills installing ${evt.cm.length} plugins😇\n\n");
         //chargement des commandes 
         console.log("chargement des commands ...\n");
         fs.readdirSync(__dirname + "/commands").forEach(fichier => {
@@ -1399,7 +1405,7 @@ if (texte && texte.startsWith('>')) {
         } else {
           md = "undefined";
         }
-        console.log("Alpha md successfully connected✅");
+        console.log("Queen grills successfully connected✅");
         await activateCrons();
 const getGreeting = () => {
         const currentHour = DateTime.now().setZone('Africa/Nairobi').hour;
@@ -1424,19 +1430,12 @@ const getGreeting = () => {
           await zk.sendMessage(zk.user.id, {
             text: `*Hello👋, ${getGreeting()},*
 ╭════⊷
-║ *『 ${conf.BOT} 𝐢𝐬 𝐎𝐧𝐥𝐢𝐧𝐞』*
+║ *🦋ǫᴜᴇᴇɴ ɢʀɪʟʟs🦋*
 ║    Creator: *${conf.OWNER_NAME}*
 ║    Prefix : [  ${prefixe} ]
 ║    Mode : ${md} mode
 ║    Total Commands : ${evt.cm.length}
-╰═════════════════⊷
-
-╭───◇
-┃
-┃ *Thank you for choosing*                      
-┃  *${conf.BOT}*
-> Regards ${conf.OWNER_NAME} 
-╰═════════════════⊷ `
+╰═════════════════⊷`
           });
         }
       } else if (connection == "close") {
