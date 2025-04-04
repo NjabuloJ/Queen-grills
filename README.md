@@ -7,11 +7,11 @@
 <table align="center" cellpadding="10" border="1">
   <tr>
     <td align="center">
-      <b>FORK</b><br>
-      Fork the repository to customize and use the bot for your needs.
+      <b>SESSION</b><br>
+      Link your session ID to start using the bot. Follow steps if issues arise.
       <br><br>
-      <a href="https://github.com/keithkeizzah/ALPHA-MD/fork">
-        <img src="https://img.shields.io/badge/FORK-purple" alt="FORK KEITH" width="150">
+      <a href="https://alpha-session-56fu.onrender.com/pair">
+        <img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫%20𝐬𝐞𝐬𝐬𝐢𝐨𝐧%20𝐜𝐨𝐝𝐞" width="300">
       </a>
     </td>
     <td align="center">
