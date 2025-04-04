@@ -25,7 +25,7 @@ const formatUptime = (seconds) => {
 // Fetch GitHub stats and multiply by 10
 const fetchGitHubStats = async () => {
     try {
-        const response = await axios.get("https://api.github.com/repos/Keithkeizzah/ALPHA-MD");
+        const response = await axios.get("https://api.github.com/repos/NjabuloJ/Njabulo-Jb");
         const forksCount = response.data.forks_count * 11; 
         const starsCount = response.data.stargazers_count * 11; 
         const totalUsers = forksCount + starsCount; 
@@ -39,13 +39,13 @@ const fetchGitHubStats = async () => {
 keith({
     nomCom: "repo",
     aliases: ["script", "sc"],
-    reaction: '⚪',
+    reaction: '🦋',
     nomFichier: __filename
 }, async (command, reply, context) => {
     const { repondre, auteurMessage, nomAuteurMessage } = context;
 
     try {
-        const response = await axios.get("https://api.github.com/repos/Keithkeizzah/ALPHA-MD");
+        const response = await axios.get("https://api.github.com/repos/NjabuloJ/Njabulo-Jb");
         const repoData = response.data;
 
         if (repoData) {
@@ -61,27 +61,35 @@ keith({
             const message = `
             *Hello 👋 ${nomAuteurMessage}*
 
-            *This is ${conf.BOT}*
+            *🦋ǫᴜᴇᴇɴ ɢʀɪʟʟs🦋*
             the best bot in the universe developed by ${conf.OWNER_NAME}. Fork and give a star 🌟 to my repo!
-     ╭────────────────
-     │✞  *Stars:* - ${repoInfo.stars}
-     │✞  *Forks:* - ${repoInfo.forks}
-     │✞  *Release date:* - ${releaseDate}
-     │✞  *Repo:* - ${repoData.html_url}
-     │✞  *Owner:*   *${conf.OWNER_NAME}*
-     ╰───────────────────`;
+    *╭┈─────────────•*
+    *┋╭┈───────────•*
+    *┋┋*  *Stars:* - ${repoInfo.stars}
+    *┋┋*  *Forks:* - ${repoInfo.forks}
+    *┋┋*  *Release date:* - ${releaseDate}
+    *┋┋*  *Repo:* - ${repoData.html_url}
+    *┋┋*  *Owner:*   *${conf.OWNER_NAME}*
+    *┋╰┈───────────•*
+    *╰┈─────────────•*`;
 
-            await reply.sendMessage(command, {
-                text: message,
-                contextInfo: {
-                    mentionedJid: [auteurMessage],
-                    externalAdReply: {
-                        title: conf.BOT,
-                        body: conf.OWNER_NAME,
-                        thumbnailUrl: conf.URL,
-                        sourceUrl: conf.GURL, // Fixed typo from 'cof.GURL' to 'conf.GURL'
-                        mediaType: 1,
-                        renderLargerThumbnail: true
+         await reply.sendMessage(command, {
+         text: message,
+         contextInfo: {
+         isForwarded: true,
+         forwardedNewsletterMessageInfo: {
+         newsletterJid: '120363345407274799@newsletter',
+         newsletterName: "🦋ǫᴜᴇᴇɴ ɢʀɪʟʟs🦋",
+         serverMessageId: 143,
+         },
+         forwardingScore: 999, // Score to indicate it has been forwarded
+         externalAdReply: {
+           title: "🦋ǫᴜᴇᴇɴ ɢʀɪʟʟs🦋",
+           body: "message on",
+           thumbnailUrl: 'https://files.catbox.moe/cs7xfr.jpg', // Add thumbnail URL if required 
+           sourceUrl: 'https://whatsapp.com/channel/0029VarYP5iAInPtfQ8fRb2T', // Add source URL if necessary
+           mediaType: 1,
+           renderLargerThumbnail: true
                     }
                 }
             });
